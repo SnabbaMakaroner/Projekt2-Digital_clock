@@ -1,5 +1,9 @@
 # Projekt2-Digital_clock
 
+Handledare: Erik Jagre & Erik Pihl
+
+Utfört av: Markus Uddgren & Jonathan Gustavsson
+
 Diskussion:
 
 
